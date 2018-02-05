@@ -51,7 +51,7 @@ public class Craps {
             case 3:
             case 12:
               return LOSS;
-            case 7:
+            case 6:
             case 11:
               return WIN;
             default:
