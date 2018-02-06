@@ -1,5 +1,6 @@
-package edu.cnm.deepdive;
+package edu.cnm.deepdive.craps.controllers;
 
+import edu.cnm.deepdive.craps.model.Craps;
 import java.util.Scanner;
 
 public class Play {
